@@ -45,7 +45,7 @@ class App extends Component {
             </li>
             <br></br>
             <li> <a href="https://capital-one-bikes-jonathancai.herokuapp.com/">LA Bike Share Data Analysis</a> (November 2018) -
-              My project analyzing LA bike-share data was selected as a winning submission to attend the Capital One Engineering Summit.
+              My project analyzing LA bike-share data (<a href="https://www.mindsumo.com/contests/bikeshare-data">Mindsumo challenge</a>) was selected as a winning submission to attend the Capital One Engineering Summit.
             </li>
             <br></br>
             <li><a href="http://news-visualize.herokuapp.com/">News Visualization</a> (July 2018) - 
@@ -63,7 +63,6 @@ class App extends Component {
               Build a slackbot to help incoming students understand popular Rice slang terms.
             </li>
           </ul>
-
           <p>
             More about me: &nbsp;
             <a href="https://www.linkedin.com/in/jonathan-cai/">LinkedIn</a> &nbsp;
@@ -75,7 +74,7 @@ class App extends Component {
           </p>
 
           <footer>
-            Latest update: 12/07/2018
+            <i>Last updated 12/07/2018.</i>
           </footer>
 
         </div>
