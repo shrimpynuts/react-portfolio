@@ -29,23 +29,39 @@ class App extends Component {
           <p>
           I've previously worked at a small company in Cupertino, <a href="https://www.sihuatech.com/">Sihua Technologies</a> as
           a Software Engineering Intern. 
-          Their <a href="http://miaoyun.io/">Miaoyun</a> team is building a cloud-based platform for container orchestration.
+          Their <a href="http://miaoyun.io/">Miaoyun</a> team is building a platform for container orchestration.
           I primarily focused on DevOps, improving their CI pipeline.
           </p>
 
           <b>Projects</b>
           <ul>
             <li>
-              Rice Delivery (Current) - As a part of <a href="https://www.sihuatech.com/">RiceApps</a>, I am working on building an on-campus food delivery platform.
+              Rice Delivery (Current) - 
+              As a part of <a href="https://www.sihuatech.com/">RiceApps</a>, I am building an on-campus food delivery platform for several Rice SRB's.
             </li>
             <br></br>
-            <li>SER Jobs (October 2018)</li>
+            <li>SER Jobs (October 2018) - 
+              At JP Morgan Chase's Code for Good Event in Plano, I worked to revamp SER Houston's digital application process.
+            </li>
             <br></br>
-            <li>Capital One Engineering Summit Challenge (November 2018)</li>
+            <li> <a href="https://capital-one-bikes-jonathancai.herokuapp.com/">LA Bike Share Data Analysis</a> (November 2018) -
+              My project analyzing LA bike-share data was selected as a winning submission to attend the Capital One Engineering Summit.
+            </li>
             <br></br>
-            <li>News Visualization (July 2018)</li>
+            <li><a href="http://news-visualize.herokuapp.com/">News Visualization</a> (July 2018) - 
+              Built a network of political figures mentioned in the latest news articles (CNN, New York Times, Fox News).&nbsp;
+              <a href="https://developer.att.com/blog/2018-entertainment-hackathon-winners-santa-clara">Placed third in the AT&T Entertainment hackathon</a>.
+            </li>
             <br></br>
-            <li>RiceSlang (March 2018)</li>
+            <li>
+              <a href="https://chrome.google.com/webstore/detail/length-converter/gnmcakofhhbmljpocbklhdboifijfdmk/reviews?hl=en&">Length Converter</a> and&nbsp;
+              <a href="https://chrome.google.com/webstore/detail/hangman/dgicdiobkdfpalmbbdcmmjhmnpaicnkh?hl=en&">Hangman</a> (June 2018) -
+              Two chrome extensions that do exactly what it sounds like they would do. Boasts 30+ users total!
+            </li>
+            <br></br>
+            <li><a href="https://devpost.com/software/riceslang">RiceSlang</a> (March 2018) -
+              Build a slackbot to help incoming students understand popular Rice slang terms.
+            </li>
           </ul>
 
           <p>
