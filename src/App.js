@@ -18,7 +18,7 @@ class App extends Component {
           </p>
           <b>Interests</b>
           <p>
-            I've always enjoyed problem-solving, and leaving a positive impact (however small) on those around me.
+            I've always enjoyed problem-solving and leaving a positive impact (however small) on those around me.
             My professional interests revolve around problems I see in our society 
             - areas include education, mass media, partisanship, and freedom of speech.
             {/* but more generally, I'm interested in any opportunity that allows me to use my problem-solving, analytical, and communication skills to leave a positive impact. */}
@@ -27,9 +27,9 @@ class App extends Component {
             I originally entered Rice as a Political Science major, intending to pursue law school, 
             and having never written a line of code before. 
             But after a few intro CS courses, I saw not just how fun, but how uniquely impactful software can be 
-            – programmers (of any age) can solve problems in such an immediate way. 
+            – engineers (of any age) can tackle problems in such an immediate way. 
             I also came to realize how much I love building things I can call my own.
-            So as of now, I'm interested a career in the tech industry as a software engineer. 
+            So as of now, I'm interested in a career in the tech industry as a software engineer. 
           </p>
           <p>
             Outside of school and work, I like to play/watch/coach basketball, learn more about personal fitness, 
@@ -50,7 +50,9 @@ class App extends Component {
             I've also volunteered at a local library with <a href="https://coderdojo.com/">CoderDojo</a> to help teach young kids some programming.
           </p>
           <p>
-            The rest of my experiences are varied - from <a href="https://khanna.house.gov/">a congressional campaign</a>, to <a href="https://www.sacattorneys.com/">my father's law firm</a>, to <a href="http://www.ufrate.com/en/">a small startup incubator</a>.
+            The rest of my experiences are varied - from <a href="https://khanna.house.gov/">a congressional campaign</a>, 
+            to <a href="https://www.sacattorneys.com/">my dad's law firm</a>, 
+            to <a href="http://www.ufrate.com/en/">a small startup incubator</a>.
             You can find out more about these other experiences on <a href="https://www.linkedin.com/in/jonathan-cai/">my LinkedIn</a>.
           </p>
 
@@ -66,24 +68,28 @@ class App extends Component {
             </li>
             <br></br>
             <li> <a href="https://capital-one-bikes-jonathancai.herokuapp.com/">LA Bike-Share Data Analysis</a> (November 2018) -
-              My project analyzing LA bike-share data (<a href="https://www.mindsumo.com/contests/bikeshare-data">Mindsumo challenge</a>) was selected as a winning submission to attend the Capital One Engineering Summit.
+              My project analyzing LA bike-share data (<a href="https://www.mindsumo.com/contests/bikeshare-data">Mindsumo challenge</a>) 
+              was selected as a winning submission to attend the 2019 Capital One Engineering Summit.
             </li>
             <br></br>
             <li><a href="http://news-visualize.herokuapp.com/">News Visualization</a> (July 2018) - 
               Illustrated a network of political figures mentioned in the latest news articles (CNN, New York Times, Fox News).&nbsp;
-              <a href="https://developer.att.com/blog/2018-entertainment-hackathon-winners-santa-clara">Placed third in the AT&T Entertainment hackathon</a>.
+              <a href="https://developer.att.com/blog/2018-entertainment-hackathon-winners-santa-clara">Placed third overall in the AT&T Entertainment hackathon</a>.
             </li>
             <br></br>
             <li>
               <a href="https://chrome.google.com/webstore/detail/length-converter/gnmcakofhhbmljpocbklhdboifijfdmk/reviews?hl=en&">Length Converter</a> and&nbsp;
               <a href="https://chrome.google.com/webstore/detail/hangman/dgicdiobkdfpalmbbdcmmjhmnpaicnkh?hl=en&">Hangman</a> (June 2018) -
-              Two chrome extensions that do exactly what it sounds like they would do. Boasts nearly 40 users!
+              Two chrome extensions that do exactly what it sounds like they would do. Boasts nearly a flopping 40 users!
             </li>
             <br></br>
             <li><a href="https://devpost.com/software/riceslang">RiceSlang</a> (March 2018) -
-              Built a slackbot to help incoming students understand popular Rice slang terms. Submission to HackRice 7.5.
+              Built a slackbot to help incoming students understand popular Rice slang terms. Submission to my first hackathon, HackRice 7.5.
             </li>
           </ul>
+
+          <b>Contact</b>
+
           <p>
             More about me: &nbsp;
             <a href="https://www.linkedin.com/in/jonathan-cai/">LinkedIn</a> &nbsp;
