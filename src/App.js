@@ -24,8 +24,9 @@ class App extends Component {
             {/* but more generally, I'm interested in any opportunity that allows me to use my problem-solving, analytical, and communication skills to leave a positive impact. */}
           </p>
           <p>
-            I originally entered Rice as a Political Science major, intending to pursue law school, and having never written a line of code before. 
-            After a few intro CS courses, I saw not just how fun, but how uniquely impactful software could be 
+            I originally entered Rice as a Political Science major, intending to pursue law school, 
+            and having never written a line of code before. 
+            But after a few intro CS courses, I saw not just how fun, but how uniquely impactful software can be 
             – programmers (of any age) can solve problems in such an immediate way. 
             I also came to realize how much I love building things I can call my own.
             So as of now, I'm interested a career in the tech industry as a software engineer. 
