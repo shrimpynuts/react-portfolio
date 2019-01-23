@@ -27,9 +27,10 @@ class App extends Component {
             I originally entered Rice as a Political Science major, intending to pursue law school, 
             and having never written a line of code before. 
             But after a few intro CS courses, I saw not just how fun, but how uniquely impactful software can be 
-            – engineers (of any age) can tackle problems in such an immediate way. 
+            – engineers (of any age, race, gender) can tackle problems in such an direct way. 
             I also came to realize how much I love building things I can call my own.
-            So as of now, I'm interested in a career in the tech industry as a software engineer. 
+            So as of now, I'm interested in a career in the tech industry as a software engineer, and simply
+            exploring what we can teach technology, and what technology can teach us.
           </p>
           <p>
             Outside of school and work, I like to play/watch/coach basketball, learn more about personal fitness, 
@@ -40,7 +41,7 @@ class App extends Component {
             I am an incoming Software Engineering Intern at JP Morgan Chase & Co. in Houston, Texas this Summer 2019 (June - August 2019).
           </p>
           <p>
-            I've previously worked at a small company in Cupertino, <a href="https://www.sihuatech.com/" target="_blank">Sihua Technologies</a>, as
+            I've previously worked at a small IT company in Cupertino, <a href="https://www.sihuatech.com/" target="_blank">Sihua Technologies</a>, as
             a Software Engineering Intern (June - August 2018). 
             Their <a href="http://miaoyun.io/" target="_blank">Miaoyun</a> team is building a platform for container orchestration.
             I primarily focused on DevOps, using a <a href="https://www.weave.works/blog/gitops-operations-by-pull-request" target="_blank">GitOps</a> workflow to
@@ -63,13 +64,13 @@ class App extends Component {
               As a part of <a href="https://www.riceapps.org/" target="_blank">RiceApps</a>, I am building an on-campus food delivery platform for several Rice SRB's.
             </li>
             <br></br>
-            <li>SER Jobs (October 2018) - 
-              At JP Morgan Chase's Code for Good Event in Plano, I worked to revamp SER Houston's digital application process.
-            </li>
-            <br></br>
             <li> <a href="https://capital-one-bikes-jonathancai.herokuapp.com/" target="_blank">LA Bike-Share Data Analysis</a> (November 2018) -
               My project analyzing LA bike-share data (<a href="https://www.mindsumo.com/contests/bikeshare-data" target="_blank">Mindsumo challenge</a>) 
               was selected as a winning submission to attend the 2019 Capital One Engineering Summit.
+            </li>
+            <br></br>
+            <li>SER Jobs (October 2018) - 
+              At JP Morgan Chase's Code for Good Event in Plano, I worked to revamp SER Houston's digital application process.
             </li>
             <br></br>
             <li><a href="http://news-visualize.herokuapp.com/" target="_blank">News Visualization</a> (July 2018) - 
