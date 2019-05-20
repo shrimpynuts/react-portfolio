@@ -102,7 +102,7 @@ class App extends Component {
           </p>
 
           <footer>
-            <i>Last updated 12/17/2018.</i>
+            <i>Last updated 5/20/2019.</i>
           </footer>
 
         </div>
