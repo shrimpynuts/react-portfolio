@@ -4,17 +4,95 @@
 
 .App-main {
   /* background-color: #636363; */
-  padding-left: 25%;
-  padding-right: 25%;
+  padding-left: 15%;
+  padding-right: 15%;
   padding-top: 5%;
   text-align: left;
   padding-bottom: 5%;
   /* font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif; */
-  color: #666666
+  color: #666666;
+  font-size: 20px;
 }
 
 ul {
   padding-left: 20px;
+}
+
+.MuiPaper-root.MuiPaper-elevation1.cont.MuiPaper-rounded {
+  padding-left: 10px;
+  height: 365px;
+  width: 100px;
+  float: right;
+  left: 30px; 
+  top: 75px; 
+  position: fixed;
+
+}
+
+.grid {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.paper {
+  padding: 5px;
+  border-radius: 25px;
+}
+
+.paperDiv {
+  padding: 10px;
+}
+
+.MuiCardMedia-root {
+  float: right;
+  height: 200px;
+  width: 200px;
+}
+
+.header {
+  font-size:30px;
+}
+
+.paperImg {
+  float: left;
+  height: 220px;
+  width: 220px;
+  padding: 20px;
+  margin: 10px;
+  padding-left: 10px;
+}
+
+.list {
+  margin-left: 225px;
+  font-size: 17px;
+}
+
+.intro {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.MuiPaper-root MuiPaper-elevation1 padding MuiPaper-rounded {
+  background-color: #666666
+}
+
+.MuiPaper-elevation1{
+  background-color: #666666
+}
+
+.MuiPaper-rounded {
+  background-color: #666666
+}
+
+.contact-text {
+  width: 240px;
+  padding: 10px;
+}
+
+.cont {
+  background-color: #666666
 }
 
 
