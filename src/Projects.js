@@ -21,8 +21,7 @@ const featuredPosts = [
         date: 'May 2019',
         image: "https://drive.google.com/uc?export=view&id=1vU0vHPYTLIDMvwokGnoZ1p5qCI_xPUmD",
         description:
-          'A receipt scanning and personal finance tracking iOS app. \
-          Won 1st place at the Capital One Software Engineering Summit.',
+          'A receipt scanning and personal finance tracking iOS app. Won 1st place at the Capital One Software Engineering Summit.',
         url: "https://github.com/jonathancai11/rackr",
     },
     {
@@ -38,8 +37,7 @@ const featuredPosts = [
       date: 'November 2018',
       image: "https://drive.google.com/uc?export=view&id=1nxKzs825Bw9OBx71A-b6uA0y8GYFzNuv",
       description:
-        'Analysis and visualization of LA bike-share data.\
-        Winning submission to attend the Capital One Engineering Summit.',
+        'Analysis and visualization of LA bike-share data. Winning submission to attend the Capital One Engineering Summit.',
       url: "https://capital-one-bikes-jonathancai.herokuapp.com/",
         },
     {

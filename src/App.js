@@ -67,6 +67,7 @@ class App extends Component {
             to <a href="http://www.ufrate.com/en/" target="_blank">a small startup incubator</a>.
             You can find out more about these other experiences on <a href="https://www.linkedin.com/in/jonathan-cai/" target="_blank">my LinkedIn</a>.
           </p>
+          <br></br>
 
           <b className="header">Projects</b>
 
@@ -89,19 +90,6 @@ class App extends Component {
             Senior year of high school, I had some of the most fun volunteering and even celebrated my birthday at a community in Nepal with <a href="http://www.volunteerbasecamp.com/About-Volunteer-BaseCamp/BaseCamp-Nepal">Volunteer BaseCamp</a>. 
             Here's the <a href="https://www.youtube.com/watch?v=FSeBzDUh_1E">video recap</a>. I hope to go back one day.
           </p>
-
-
-          {/* <b className="header">Contact</b>
-          <p>
-            More about me: &nbsp;
-            <a href="https://www.linkedin.com/in/jonathan-cai/" target="_blank">LinkedIn</a> &nbsp;
-            <a href="https://github.com/jonathancai11" target="_blank">Github</a> &nbsp;
-            <a href={pdf} target="Jonathan Cai Resume" target="_blank">Resume</a>
-          </p> */}
-          {/* <footer>
-            <i>Last updated 6/23/2019.</i>
-          </footer> */}
-
 
         </div>
         <StickyFooter/>

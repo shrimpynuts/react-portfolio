@@ -8,6 +8,7 @@ import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
 import { makeStyles } from '@material-ui/core/styles';
 import featuredPosts from './Projects';
+import Box from '@material-ui/core/Typography';
 
 
 const useStyles = makeStyles(theme => ({
@@ -54,9 +55,9 @@ export default class Blog extends Component {
                           <Typography variant="subtitle1" color="textSecondary">
                             {post.date}
                           </Typography>
-                          <Typography variant="subtitle1" paragraph>
+                          <Box fontSize={15}>
                             {post.description}
-                          </Typography>
+                          </Box>
                         </CardContent>
                       </div>
                     </Card>

@@ -5,6 +5,7 @@ import CssBaseline from '@material-ui/core/CssBaseline';
 import CardMedia from '@material-ui/core/CardMedia';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
+import Box from '@material-ui/core/Typography';
 
 
 const useStyles = makeStyles(theme => ({
@@ -43,24 +44,18 @@ export default class PaperElement extends Component {
                     <Typography component="h2" variant="h5">
                       {this.props.org}
                     </Typography>
-                    <Typography variant="subtitle1" color="textSecondary">
+                    <Box variant="subtitle1" color="textSecondary">
                       {this.props.date}
-                    </Typography>
-                    <Typography component="h6" variant="h6">
+                    </Box>
+                    <Box component="h6" fontSize={8}>
                       {this.props.body}
-                    </Typography>
+                    </Box>
 
                     <div className="list">
-                        <ul>
+                        <ul className="workList">
                           {this.props.details.map(detail => <li>{detail}</li>)}
                         </ul>
                       </div>
-
-                    {/* <Typography variant="subtitle1" paragraph>
-                      {this.props.details}
-                    </Typography> */}
-
-                          
                   </CardContent>
                 </div>
               </Card>
