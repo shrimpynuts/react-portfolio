@@ -8,11 +8,7 @@ import Link from '@material-ui/core/Link';
 function MadeWithLove() {
   return (
     <Typography variant="body2" color="textSecondary">
-      {'Website last updated 6/23/2019'}
-      {/* <Link color="inherit" href="https://material-ui.com/">
-        Material-UI
-      </Link>
-      {'.'} */}
+      {'Website last updated 6/22/2019'}
     </Typography>
   );
 }
